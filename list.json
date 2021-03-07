@@ -12,5 +12,19 @@
       "showAnnualReturn": true,
       "status": "done"
     }
+  ],
+  "jiuer": [
+    {
+      "name": "92Coin BTC 趋势基金",
+      "code": "t2",
+      "showAnnualReturn": true,
+      "status": "done"
+    },
+    {
+      "name": "92Coin BTC 趋势基金（91_2104）",
+      "code": "91_2104",
+      "showAnnualReturn": true,
+      "status": "done"
+    }
   ]
 }
