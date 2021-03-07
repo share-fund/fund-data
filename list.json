@@ -1,16 +1,20 @@
 {
-  "jiuyao": [
-    {
-      "name": "91Coin BTC 趋势基金（91_2104）",
-      "code": "91_2104",
-      "showAnnualReturn": true,
-      "status": "done"
-    },
-    {
-      "name": "91Coin BTC 趋势基金（91_2106）",
-      "code": "91_2106",
-      "showAnnualReturn": false,
-      "status": "prepare"
-    }
-  ]
+  "jiuyao": {
+    "name": "91Coin",
+    "url": "https://www.91coin.pro",
+    "funds": [
+      {
+        "name": "91Coin BTC 趋势基金（91_2104）",
+        "code": "91_2104",
+        "showAnnualReturn": true,
+        "status": "done"
+      },
+      {
+        "name": "91Coin BTC 趋势基金（91_2106）",
+        "code": "91_2106",
+        "showAnnualReturn": false,
+        "status": "prepare"
+      }
+    ]
+  }
 }
