@@ -6,7 +6,7 @@
       {
         "name": "91Coin BTC 趋势基金（91_2104）",
         "code": "91_2104",
-        "url": "",
+        "url": "https://support.91coin.com/hc/zh-cn/articles/360002708776",
         "desc_md_url": "https://raw.githubusercontent.com/share-fund/fund-descriptions/main/jiuyao/91_2104.md",
         "showAnnualReturn": true,
         "status": "done"
@@ -14,7 +14,7 @@
       {
         "name": "91Coin BTC 趋势基金（91_2106）",
         "code": "91_2106",
-        "url": "",
+        "url": "https://www.91coin.pro/xo/item/91_2106-USDT-7238-20210305155153",
         "desc_md_url": "https://raw.githubusercontent.com/share-fund/fund-descriptions/main/jiuyao/91_2106.md",
         "showAnnualReturn": false,
         "status": "prepare"
