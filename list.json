@@ -6,12 +6,16 @@
       {
         "name": "91Coin BTC 趋势基金（91_2104）",
         "code": "91_2104",
+        "url": "",
+        "desc_md_url": "https://raw.githubusercontent.com/share-fund/fund-descriptions/main/jiuyao/91_2104.md",
         "showAnnualReturn": true,
         "status": "done"
       },
       {
         "name": "91Coin BTC 趋势基金（91_2106）",
         "code": "91_2106",
+        "url": "",
+        "desc_md_url": "https://raw.githubusercontent.com/share-fund/fund-descriptions/main/jiuyao/91_2106.md",
         "showAnnualReturn": false,
         "status": "prepare"
       }
