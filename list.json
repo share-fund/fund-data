@@ -32,37 +32,5 @@
         }
       }
     ]
-  },
-  "jiuer": {
-    "name": "92Coin Fund",
-    "url": "https://www.91coin.pro",
-    "funds": [
-      {
-        "name": "91Coin BTC 趋势基金（91_2104）",
-        "code": "91_2104",
-        "url": "https://support.91coin.com/hc/zh-cn/articles/360002708776",
-        "showAnnualReturn": true,
-        "status": "done",
-        "data": {
-          "datetime": "2021-03-05 00:00:00",
-          "pps": 1.1566,
-          "cum_pnl_rate": 0.1566,
-          "daily_pnl_rate": -0.0076
-        }
-      },
-      {
-        "name": "91Coin BTC 趋势基金（91_2106）",
-        "code": "91_2106",
-        "url": "https://www.91coin.pro/xo/item/91_2106-USDT-7238-20210305155153",
-        "showAnnualReturn": false,
-        "status": "prepare",
-        "data": {
-          "datetime": "2021-03-08 00:00:00",
-          "pps": 1.0,
-          "cum_pnl_rate": 0.0,
-          "daily_pnl_rate": 0.0
-        }
-      }
-    ]
   }
 }
