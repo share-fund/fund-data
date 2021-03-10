@@ -2,8 +2,8 @@
   "jiuyao": {
     "name": "91Coin 量化基金",
     "url": "https://www.91coin.pro",
-    "logoUrl": "https://static.bhfastime.com/bhop/image/CSE3dSTdQIJQLKlZ0cliwJuvrvxckdpQKOugXfXSgWY.png",
-    "bannerUrl": "https://static.bhfastime.com/banner/HOiTFxRWeNSq6KU3frazWsd4oBEP8Rl13aQ11uJF8T4.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/banner.jpg",
     "funds": [
       {
         "name": "91Coin BTC 趋势基金（91_2104）",
