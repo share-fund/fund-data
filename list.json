@@ -25,7 +25,7 @@
         "showAnnualReturn": false,
         "status": "running",
         "data": {
-          "datetime": "2021-03-08 00:00:00",
+          "datetime": "2021-03-10 00:00:00",
           "pps": 1.0,
           "cum_pnl_rate": 0.0,
           "daily_pnl_rate": 0.0
