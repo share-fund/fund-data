@@ -28,7 +28,7 @@
           "datetime": "2021-03-13 00:00:00",
           "pps": 1.0367,
           "cum_pnl_rate": 0.0367,
-          "daily_pnl_rate": 0.01 
+          "daily_pnl_rate": -0.01 
         }
       }
     ]
