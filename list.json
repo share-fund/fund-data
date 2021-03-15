@@ -3,7 +3,8 @@
     "name": "91Coin 量化基金",
     "url": "https://www.91coin.pro",
     "logoUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/logo.png",
-    "bannerUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/banner.jpg",
+    "bannerUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/banner.png",
+    "favicon": "https://raw.githubusercontent.com/share-fund/fund-assets/main/jiuyao/favicon.ico",
     "funds": [
       {
         "name": "91Coin BTC 趋势基金（91_2104）",
