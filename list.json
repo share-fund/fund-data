@@ -26,9 +26,9 @@
         "status": "running",
         "data": {
           "datetime": "2021-03-14 00:00:00",
-          "pps": 1.1119,
-          "cum_pnl_rate": 0.1119,
-          "daily_pnl_rate": 0.0725 
+          "pps": 1.0683,
+          "cum_pnl_rate": 0.0683,
+          "daily_pnl_rate": 0.0392 
         }
       }
     ]
