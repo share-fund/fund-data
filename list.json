@@ -1,4 +1,11 @@
 {
+  "default": {
+    "name": "ShareFund 基金",
+    "url": "https://share-fund.github.io",
+    "logoUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/default/logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/share-fund/fund-assets/main/default/banner.png",
+    "favicon": "https://raw.githubusercontent.com/share-fund/fund-assets/main/default/favicon.ico"
+  },
   "jiuyao": {
     "name": "91Coin 量化基金",
     "url": "https://www.91coin.pro",
