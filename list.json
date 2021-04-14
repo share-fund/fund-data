@@ -31,7 +31,7 @@
         "name": "91Coin BTC 趋势基金（91_2106）",
         "code": "91_2106",
         "url": "https://www.91coin.pro/xo/item/91_2106-USDT-7238-20210305155153",
-        "showAnnualReturn": false,
+        "showAnnualReturn": true,
         "status": "running",
         "data": {
           "datetime": "2021-04-14 00:00:00",
