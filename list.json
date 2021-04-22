@@ -34,11 +34,11 @@
         "showAnnualReturn": true,
         "status": "running",
         "data": {
-          "datetime": "2021-04-21 00:00:00",
-          "annual_return": -0.5665870471796401,
-          "pps": 0.9062,
-          "cum_pnl_rate": -0.0938,
-          "daily_pnl_rate": 0.0076
+          "datetime": "2021-04-22 00:00:00",
+          "annual_return": -0.6414296581193935,
+          "pps": 0.8837,
+          "cum_pnl_rate": -0.1163,
+          "daily_pnl_rate": -0.0248
         }
       }
     ]
