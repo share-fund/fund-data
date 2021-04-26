@@ -1,0 +1,13 @@
+{
+  "name": "91Coin BTC 趋势基金（91_2104）",
+  "code": "91_2104",
+  "url": "https://support.91coin.com/hc/zh-cn/articles/360002708776",
+  "showAnnualReturn": true,
+  "status": "done",
+  "data": {
+    "datetime": "2021-03-05 00:00:00",
+    "pps": 1.1566,
+    "cum_pnl_rate": 0.1566,
+    "daily_pnl_rate": -0.0076
+  }
+}
