@@ -5,10 +5,10 @@
   "showAnnualReturn": true,
   "status": "running",
   "data": {
-    "datetime": "2021-06-26 00:00:00",
-    "annual_return": -0.665745763574046,
-    "pps": 0.7209,
-    "cum_pnl_rate": -0.2791,
-    "daily_pnl_rate": -0.0033
+    "datetime": "2021-06-27 00:00:00",
+    "annual_return": -0.6634856995057414,
+    "pps": 0.7201,
+    "cum_pnl_rate": -0.2798,
+    "daily_pnl_rate": -0.001
   }
 }
